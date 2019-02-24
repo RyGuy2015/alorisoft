@@ -17,9 +17,9 @@ class HomeIndex extends React.Component {
         return (
             <Layout>
                 <Helmet
-                    title="Gatsby Starter - Forty"
+                    title="Alori"
                     meta={[
-                        { name: 'description', content: 'Sample' },
+                        { name: 'Alori llc', content: 'Alori Software' },
                         { name: 'keywords', content: 'sample, something' },
                     ]}
                 >
@@ -31,7 +31,7 @@ class HomeIndex extends React.Component {
                     <section id="one" className="tiles">
                         <article style={{backgroundImage: `url(${pic01})`}}>
                             <header className="major">
-                                <h3>Aliquam</h3>
+                                <h3>Alori</h3>
                                 <p>Ipsum dolor sit amet</p>
                             </header>
                             <Link to="/landing" className="link primary"></Link>
