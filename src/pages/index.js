@@ -23,6 +23,7 @@ class HomeIndex extends React.Component {
                         { name: 'keywords', content: 'sample, something' },
                     ]}
                 >
+                <meta name="google-site-verification" content="BeU84KUzhHWnblj3LYDrd8f0mYQd91KZzaokm6BMrWA" />
                 </Helmet>
 
                 <Banner />
